@@ -6,7 +6,22 @@
       "pl": "Przystawki",
       "ua": "Закуски"
     },
-    "dishes": [{}]
+    "dishes": [
+      {
+        "title": {
+          "en": "Fat",
+          "pl": "Tłuszcz",
+          "us": "Сало"
+        },
+        "excerpt": {
+          "en": "Fat",
+          "pl": "Tłuszcz",
+          "us": "Сало"
+        },
+        "id": "fat",
+        "price": "NaN"
+      }
+    ]
   },
   {
     "id": "maincourses",
@@ -15,7 +30,22 @@
       "pl": "Dania Główne",
       "ua": "Основні страви"
     },
-    "dishes": [{}]
+    "dishes": [
+      {
+        "title": {
+          "en": "Pierogi with sweet cottage cheese",
+          "pl": "Pierogi z twarogiem na słodko",
+          "ua": "Вареники з солодким сиром"
+        },
+        "excerpt": {
+          "en": "Pierogi with sweet cottage cheese",
+          "pl": "Pierogi z twarogiem na słodko",
+          "ua": "Вареники з солодким сиром"
+        },
+        "id": "pierogi-with-sweet-cottage-cheese",
+        "price": "30"
+      }
+    ]
   },
   {
     "id": "soups",
@@ -24,7 +54,22 @@
       "pl": "Zupy",
       "ua": "Супи"
     },
-    "dishes": [{}]
+    "dishes": [
+      {
+        "title": {
+          "en": "Bogracz",
+          "pl": "Bogracz",
+          "ua": "Бограч"
+        },
+        "excerpt": {
+          "en": "Bogracz",
+          "pl": "Bogracz",
+          "ua": "Бограч"
+        },
+        "id": "bogracz",
+        "price": "23"
+      }
+    ]
   },
   {
     "id": "salads",
@@ -33,7 +78,22 @@
       "pl": "Sałatki",
       "ua": "Салати"
     },
-    "dishes": [{}]
+    "dishes": [
+      {
+        "title": {
+          "en": "Herring under a blanket salad",
+          "pl": "Sałatkę śledziową pod pierzynką",
+          "ua": "Салат оселедець під шубою"
+        },
+        "excerpt": {
+          "en": "Herring under a blanket salad",
+          "pl": "Sałatkę śledziową pod pierzynką",
+          "ua": "Салат оселедець під шубою"
+        },
+        "id": "herring-under-a-blanket-salad",
+        "price": "25"
+      }
+    ]
   },
   {
     "id": "desserts",
@@ -42,7 +102,22 @@
       "pl": "Desery",
       "ua": "Десерти"
     },
-    "dishes": [{}]
+    "dishes": [
+      {
+        "title": {
+          "en": "Monastyrska chata",
+          "pl": "Monastyrska chata",
+          "ua": "Монастирська хатинка"
+        },
+        "excerpt": {
+          "en": "Monastyrska chata",
+          "pl": "Monastyrska chata",
+          "ua": "Монастирська хатинка"
+        },
+        "id": "monastyrska-chata",
+        "price": "NaN"
+      }
+    ]
   },
   {
     "id": "beverage",
@@ -51,7 +126,22 @@
       "pl": "Napój",
       "ua": "Напої"
     },
-    "dishes": [{}]
+    "dishes": [
+      {
+        "title": {
+          "en": "Latte",
+          "pl": "Latte",
+          "ua": "Латте"
+        },
+        "excerpt": {
+          "en": "Latte",
+          "pl": "Latte",
+          "ua": "Латте"
+        },
+        "id": "latte",
+        "price": "7"
+      }
+    ]
   },
   {
     "id": "other",
@@ -60,6 +150,21 @@
       "pl": "Inny",
       "ua": "Інше"
     },
-    "dishes": [{}]
+    "dishes": [
+      {
+        "title": {
+          "en": "Homemade meat jelly",
+          "pl": "Domową galaretkę",
+          "ua": "Домашній холодець"
+        },
+        "excerpt": {
+          "en": "Homemade meat jelly",
+          "pl": "Domową galaretkę",
+          "ua": "Домашній холодець"
+        },
+        "id": "homemade-meat-jelly",
+        "price": "27"
+      }
+    ]
   }
 ]
