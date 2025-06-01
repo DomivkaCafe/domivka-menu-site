@@ -216,7 +216,7 @@
           "pl": "Sałatkę śledziową pod pierzynką",
           "ua": "Салат оселедець під шубою"
         },
-        "id": "herring-under-a-blanket-salad",
+        "id": "herringunderablanketsalad",
         "price": "25"
       },
       {
@@ -268,7 +268,7 @@
           "pl": "Monastyrska chata",
           "ua": "Монастирська хатинка"
         },
-        "id": "monastyrska-chata",
+        "id": "monastyrskachata",
         "price": "NaN"
       }
     ]
@@ -316,7 +316,7 @@
           "pl": "Domową galaretkę",
           "ua": "Домашній холодець"
         },
-        "id": "homemade-meat-jelly",
+        "id": "homemademeatjelly",
         "price": "27"
       }
     ]
