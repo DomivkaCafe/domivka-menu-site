@@ -1,0 +1,65 @@
+[
+  {
+    "id": "appetizers",
+    "name": {
+      "en": "Appetizers",
+      "pl": "Przystawki",
+      "ua": "Закуски"
+    },
+    "dishes": [{}]
+  },
+  {
+    "id": "maincourses",
+    "name": {
+      "en": "Main Courses",
+      "pl": "Dania Główne",
+      "ua": "Основні страви"
+    },
+    "dishes": [{}]
+  },
+  {
+    "id": "soups",
+    "name": {
+      "en": "Soups",
+      "pl": "Zupy",
+      "ua": "Супи"
+    },
+    "dishes": [{}]
+  },
+  {
+    "id": "salads",
+    "name": {
+      "en": "Salads",
+      "pl": "Sałatki",
+      "ua": "Салати"
+    },
+    "dishes": [{}]
+  },
+  {
+    "id": "desserts",
+    "name": {
+      "en": "Desserts",
+      "pl": "Desery",
+      "ua": "Десерти"
+    },
+    "dishes": [{}]
+  },
+  {
+    "id": "beverage",
+    "name": {
+      "en": "Beverage",
+      "pl": "Napój",
+      "ua": "Напої"
+    },
+    "dishes": [{}]
+  },
+  {
+    "id": "other",
+    "name": {
+      "en": "Other",
+      "pl": "Inny",
+      "ua": "Інше"
+    },
+    "dishes": [{}]
+  }
+]
