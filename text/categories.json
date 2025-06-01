@@ -33,17 +33,115 @@
     "dishes": [
       {
         "title": {
-          "en": "Pierogi with sweet cottage cheese",
-          "pl": "Pierogi z twarogiem na słodko",
-          "ua": "Вареники з солодким сиром"
+          "en": "Dumplings with sour cream",
+          "pl": "Pierogi ze śmietaną",
+          "ua": "Вареники з кисло-молочним сиром"
         },
         "excerpt": {
-          "en": "Pierogi with sweet cottage cheese",
-          "pl": "Pierogi z twarogiem na słodko",
-          "ua": "Вареники з солодким сиром"
+          "en": "Dumplings with sour cream",
+          "pl": "Pierogi ze śmietaną",
+          "ua": "Вареники з кисло-молочним сиром"
         },
-        "id": "pierogi-with-sweet-cottage-cheese",
-        "price": "30"
+        "id": "dumplingswithsourcream",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Baked mushroom pot",
+          "pl": "Pieczony garnek z grzybami",
+          "ua": "Запечений горщик з грибами"
+        },
+        "excerpt": {
+          "en": "Baked mushroom pot",
+          "pl": "Pieczony garnek z grzybami",
+          "ua": "Запечений горщик з грибами"
+        },
+        "id": "bakedmushroompot",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Krucheniki with lard and dried mushrooms",
+          "pl": "Krucheniki ze smalcem i suszonymi grzybami",
+          "ua": "Крученики з салом та сушеними грибами"
+        },
+        "excerpt": {
+          "en": "Krucheniki with lard and dried mushrooms",
+          "pl": "Krucheniki ze smalcem i suszonymi grzybami",
+          "ua": "Крученики з салом та сушеними грибами"
+        },
+        "id": "kruchenikiwithlardanddriedmushrooms",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Dumplings with potatoes and cracklings",
+          "pl": "Pierogi z ziemniakami i skwarkami",
+          "ua": "Вареники з картоплею та шкварками"
+        },
+        "excerpt": {
+          "en": "Dumplings with potatoes and cracklings",
+          "pl": "Pierogi z ziemniakami i skwarkami",
+          "ua": "Вареники з картоплею та шкварками"
+        },
+        "id": "dumplingswithpotatoesandcracklings",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Pelmeni",
+          "pl": "Pierogi",
+          "ua": "Пельмені"
+        },
+        "excerpt": {
+          "en": "Pelmeni",
+          "pl": "Pierogi",
+          "ua": "Пельмені"
+        },
+        "id": "pelmeni",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Deep-fried dumplings",
+          "pl": "Głęboko smażone pierożki",
+          "ua": "Пельмені у фритюрі"
+        },
+        "excerpt": {
+          "en": "Deep-fried dumplings",
+          "pl": "Głęboko smażone pierożki",
+          "ua": "Пельмені у фритюрі"
+        },
+        "id": "deepfrieddumplings",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Frying pan with meat",
+          "pl": "Patelnia z mięsem",
+          "ua": "Пательня з м'ясом"
+        },
+        "excerpt": {
+          "en": "Frying pan with meat",
+          "pl": "Patelnia z mięsem",
+          "ua": "Пательня з м'ясом"
+        },
+        "id": "fryingpanwithmeat",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Liver with apples",
+          "pl": "Wątróbka z jabłkami",
+          "ua": "Печінка з яблуками"
+        },
+        "excerpt": {
+          "en": "Liver with apples",
+          "pl": "Wątróbka z jabłkami",
+          "ua": "Печінка з яблуками"
+        },
+        "id": "liverwithapples",
+        "price": "NaN"
       }
     ]
   },
@@ -68,6 +166,34 @@
         },
         "id": "bogracz",
         "price": "23"
+      },
+      {
+        "title": {
+          "en": "Solyanka",
+          "pl": "Solanka",
+          "ua": "Солянка"
+        },
+        "excerpt": {
+          "en": "Solyanka",
+          "pl": "Solanka",
+          "ua": "Солянка"
+        },
+        "id": "solanka",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Ukrainian borscht",
+          "pl": "Barszcz ukraiński",
+          "ua": "Борщ український"
+        },
+        "excerpt": {
+          "en": "Ukrainian borscht",
+          "pl": "Barszcz ukraiński",
+          "ua": "Борщ український"
+        },
+        "id": "ukrainianborscht",
+        "price": "NaN"
       }
     ]
   },
@@ -92,6 +218,34 @@
         },
         "id": "herring-under-a-blanket-salad",
         "price": "25"
+      },
+      {
+        "title": {
+          "en": "Salad Home",
+          "pl": "Sałatka Domivka",
+          "ua": "Салат Домівка"
+        },
+        "excerpt": {
+          "en": "Salad Home",
+          "pl": "Sałatka Domivka",
+          "ua": "Салат Домівка"
+        },
+        "id": "saladhome",
+        "price": "NaN"
+      },
+      {
+        "title": {
+          "en": "Lorochka salad",
+          "pl": "Sałatka Loroczka",
+          "ua": "Салат Лорочка"
+        },
+        "excerpt": {
+          "en": "Lorochka salad",
+          "pl": "Sałatka Loroczka",
+          "ua": "Салат Лорочка"
+        },
+        "id": "lorochkasalad",
+        "price": "NaN"
       }
     ]
   },
